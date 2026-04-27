@@ -15,3 +15,8 @@ This is a Minesweeper game coded in java. There are 3 maps(difficulties) you can
   - Object oriented programming in java for the logic
   - Swing used for UI
 
+---
+
+### How to run
+Double click MineSweeper.jar
+
