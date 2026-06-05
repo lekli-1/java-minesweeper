@@ -7,7 +7,9 @@ This is a Minesweeper game coded in java. There are 3 maps(difficulties) you can
  - 16x16 tiles with 40 bombs (Intermediate)
  - 24x24 tiles with 99 bombs (Expert)
 
- There is also a leaderboard, that ranks the top players in each difficulty by time of completion. If you complete a map, you can type in your name and get on the leaderboard (if you're fast enough).
+ It also features a leaderboard, that displays and ranks the top 5 players in each difficulty by time of completion. If you complete a map, you can type in your name and get on the leaderboard (if you're fast enough).
+
+ There is a special mode called "No mercy mode". I'll let you discover that.
 
 ---
 
@@ -19,4 +21,10 @@ This is a Minesweeper game coded in java. There are 3 maps(difficulties) you can
 
 ### How to run
 Double click MineSweeper.jar
+
+### Screnshots showcasing the gameplay
+![Screenshot 1](./screenshots/screenshot1.png)
+![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 3](./screenshots/screenshot3.png)
+![Screenshot 4](./screenshots/screenshot4.png)
 
